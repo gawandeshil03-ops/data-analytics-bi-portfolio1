@@ -5,6 +5,7 @@
 ### A curated portfolio of end-to-end projects across finance, manufacturing, SaaS, and supply chain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shil%20Gawande-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shilgawande2004)
+[![GitHub](https://img.shields.io/badge/GitHub-gawandeshil03--ops-181717?style=flat-square&logo=github)](https://github.com/gawandeshil03-ops)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -27,10 +28,10 @@ Raw Data → Cleaning & Validation → Modeling → Analysis / ML → Reporting 
 
 | # | Project | Business Area | Core Technologies |
 |---:|---|---|---|
-| 1 | [Institutional Valuation Engine →](projects/valuation-engine/README.md) | DCF valuation, trading comparables, scenarios, and sensitivity analysis | Python, Pandas, NumPy, XlsxWriter, Matplotlib |
-| 2 | [Machine Failure & Predictive Maintenance →](projects/predictive-maintenance/README.md) | Industrial failure prediction and maintenance automation | Python, scikit-learn, n8n, Gemini, Telegram, Power BI |
-| 3 | [SaaS Business & IT Operations Analytics →](projects/saas-analytics/README.md) | Revenue, churn, subscriptions, usage, and support | Excel, Python, MySQL, Power BI |
-| 4 | [SupplyIQ — Supply Chain Analytics →](projects/supplyiq/README.md) | Inventory, logistics, suppliers, and segmentation | SQL, Python, K-Means, Power Query, DAX, Power BI |
+| 1 | [Institutional Valuation Engine →](https://github.com/gawandeshil03-ops/institutional-valuation-engine) | DCF valuation, trading comparables, scenarios, and sensitivity analysis | Python, Pandas, NumPy, XlsxWriter, Matplotlib |
+| 2 | [Machine Failure & Predictive Maintenance →](https://github.com/gawandeshil03-ops/predictive-maintenance-system) | Industrial failure prediction and maintenance automation | Python, scikit-learn, n8n, Gemini, Telegram, Power BI |
+| 3 | [SaaS Business & IT Operations Analytics →](https://github.com/gawandeshil03-ops/SaaS-Analytics) | Revenue, churn, subscriptions, usage, and support | Excel, Python, MySQL, Power BI |
+| 4 | [SupplyIQ — Supply Chain Analytics →](https://github.com/gawandeshil03-ops/SupplyIQ) | Inventory, logistics, suppliers, and segmentation | SQL, Python, K-Means, Power Query, DAX, Power BI |
 
 ## Skills Covered
 
@@ -72,8 +73,8 @@ Raw Data → Cleaning & Validation → Modeling → Analysis / ML → Reporting 
 
 - **Name:** Shil Gawande
 - **LinkedIn:** [linkedin.com/in/shilgawande2004](https://www.linkedin.com/in/shilgawande2004)
-- **GitHub:** [https://github.com/gawandeshil03-ops/data-analytics-bi-portfolio1](https://github.com/gawandeshil03-ops/data-analytics-bi-portfolio1)
-- **Phone:** [+91 9172937014] (tel:+91 9172937014)
+- **GitHub:** [github.com/gawandeshil03-ops](https://github.com/gawandeshil03-ops)
+- **Phone:** [+91 9172937014](tel:+919172937014)
 - **Email:** [gawandeshil9@gmail.com](mailto:gawandeshil9@gmail.com)
 
 ---
