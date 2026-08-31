@@ -29,7 +29,7 @@ Raw Data → Cleaning & Validation → Modeling → Analysis / ML → Reporting 
 | # | Project | Business Area | Core Technologies |
 |---:|---|---|---|
 | 1 | [Institutional Valuation Engine →](https://github.com/gawandeshil03-ops/institutional-valuation-engine) | DCF valuation, trading comparables, scenarios, and sensitivity analysis | Python, Pandas, NumPy, XlsxWriter, Matplotlib |
-| 2 | [Machine Failure & Predictive Maintenance →](https://github.com/gawandeshil03-ops/predictive-maintenance-system) | Industrial failure prediction and maintenance automation | Python, scikit-learn, n8n, Gemini, Telegram, Power BI |
+| 2 | [Machine Failure & Predictive Maintenance →](https://github.com/gawandeshil03-ops/Predictive-Maintenance) | Industrial failure prediction and maintenance automation | Python, scikit-learn, n8n, Gemini, Telegram, Power BI |
 | 3 | [SaaS Business & IT Operations Analytics →](https://github.com/gawandeshil03-ops/SaaS-Analytics) | Revenue, churn, subscriptions, usage, and support | Excel, Python, MySQL, Power BI |
 | 4 | [SupplyIQ — Supply Chain Analytics →](https://github.com/gawandeshil03-ops/SupplyIQ) | Inventory, logistics, suppliers, and segmentation | SQL, Python, K-Means, Power Query, DAX, Power BI |
 
