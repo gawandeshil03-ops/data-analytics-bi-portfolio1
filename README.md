@@ -74,7 +74,7 @@ Raw Data → Cleaning & Validation → Modeling → Analysis / ML → Reporting 
 - **Name:** Shil Gawande
 - **LinkedIn:** [linkedin.com/in/shilgawande2004](https://www.linkedin.com/in/shilgawande2004)
 - **GitHub:** [https://github.com/gawandeshil03-ops/data-analytics-bi-portfolio1](https://github.com/gawandeshil03-ops/data-analytics-bi-portfolio1)
-- **Phone:** [+91 9172937014](tel:+91 9172937014)
+- **Phone:** [+91 9172937014] (tel:+91 9172937014)
 - **Email:** [gawandeshil9@gmail.com](mailto:gawandeshil9@gmail.com)
 
 ---
